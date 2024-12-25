@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_16/fsm_test.v" into library work
+INFO: [VRFC 10-311] analyzing module fsm_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_16/tb_fsm_test.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_fsm_test

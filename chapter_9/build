@@ -1,0 +1,3 @@
+xvlog ./tb_signed_test.v
+xelab tb_signed_test -debug wave -s tb_signed_test
+xsim tb_signed_test -gui -wdb simulate_xsim_tb_signed_test.wdb 

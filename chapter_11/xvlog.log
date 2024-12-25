@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_11/counter_100_r.v" into library work
+INFO: [VRFC 10-311] analyzing module counter_100_r
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_11/tb_counter_100_r.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_counter_100_r

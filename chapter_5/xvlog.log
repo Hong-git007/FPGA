@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_5/tb_d_ff.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_d_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_5/d_ff_test.v" into library work
+INFO: [VRFC 10-311] analyzing module d_ff_test

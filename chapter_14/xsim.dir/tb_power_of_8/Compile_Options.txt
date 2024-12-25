@@ -1,0 +1,1 @@
+"tb_power_of_8" -debug "wave" -s "tb_power_of_8" 

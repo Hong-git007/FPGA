@@ -1,0 +1,1 @@
+"tb_d_ff" -debug "wave" -s "tb_d_ff" 

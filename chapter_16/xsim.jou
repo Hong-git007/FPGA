@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# xsim v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Sep 10 23:31:21 2024
+# Process ID: 3399
+# Current directory: /home/hong/Matbi_VerilogHDL_Season1/chapter_16
+# Command line: xsim -source {xsim.dir/tb_fsm_test/xsim_script.tcl}
+# Log file: /home/hong/Matbi_VerilogHDL_Season1/chapter_16/xsim.log
+# Journal file: /home/hong/Matbi_VerilogHDL_Season1/chapter_16/xsim.jou
+# Running On: hong_desktop, OS: Linux, CPU Frequency: 3593.269 MHz, CPU Physical cores: 12, Host memory: 8306 MB
+#-----------------------------------------------------------
+start_gui
+source xsim.dir/tb_fsm_test/xsim_script.tcl
+create_wave_config
+run all
+close_sim

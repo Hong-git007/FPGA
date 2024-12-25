@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# xsim v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Aug 23 20:36:47 2024
+# Process ID: 321
+# Current directory: /home/hong/Matbi_VerilogHDL_Season1/chapter_5
+# Command line: xsim -source {xsim.dir/tb_d_ff/xsim_script.tcl}
+# Log file: /home/hong/Matbi_VerilogHDL_Season1/chapter_5/xsim.log
+# Journal file: /home/hong/Matbi_VerilogHDL_Season1/chapter_5/xsim.jou
+# Running On: hong_desktop, OS: Linux, CPU Frequency: 3593.270 MHz, CPU Physical cores: 12, Host memory: 8306 MB
+#-----------------------------------------------------------
+start_gui
+source xsim.dir/tb_d_ff/xsim_script.tcl
+run all
+run all

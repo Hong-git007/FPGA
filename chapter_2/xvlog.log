@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_2/tb_clock_generator.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_clock_generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_2/clock_gating_model.v" into library work
+INFO: [VRFC 10-311] analyzing module clock_gating_model

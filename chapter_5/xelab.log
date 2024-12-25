@@ -1,0 +1,14 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /home/hong/tools/Xilinx/Vivado/2023.2/bin/unwrapped/lnx64.o/xelab tb_d_ff -debug wave -s tb_d_ff 
+Multi-threading is on. Using 10 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.d_ff_test
+Compiling module work.tb_d_ff
+Built simulation snapshot tb_d_ff

@@ -1,0 +1,1 @@
+"tb_counter_100_r" -debug "wave" -s "tb_counter_100_r" 

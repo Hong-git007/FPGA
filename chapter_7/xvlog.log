@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_7/tb_combi_test.v" into library work
+INFO: [VRFC 10-311] analyzing module tb_combi_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_7/combi_test_0.v" into library work
+INFO: [VRFC 10-311] analyzing module combi_test_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hong/Matbi_VerilogHDL_Season1/chapter_7/combi_test_1.v" into library work
+INFO: [VRFC 10-311] analyzing module combi_test_1

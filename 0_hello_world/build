@@ -1,0 +1,3 @@
+xvlog ./hello_world.v
+xelab hello_world -debug wave -s hello_world
+xsim hello_world -R  # do not check waveform
